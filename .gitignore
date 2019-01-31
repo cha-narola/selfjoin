@@ -31,3 +31,4 @@
 /config/master.key
 .DS_Store
 /config/database.yml
+/db/schema.rb
